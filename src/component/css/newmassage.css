@@ -1,0 +1,22 @@
+.container-fluid{
+    height: 400px;
+    width: 400px;
+    border: 2px solid gray;
+    margin: 0px auto;
+}
+
+.container-fluid form input{
+ border: none;
+ border-bottom: 2px solid gray;
+ height: 40px;
+}
+
+.container-fluid form button{
+    margin-left:10px;
+    border: none;
+}
+
+.container-fluid form input:focus{
+   font-size:15px;
+   outline: none;
+}
